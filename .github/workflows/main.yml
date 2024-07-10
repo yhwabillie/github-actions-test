@@ -1,4 +1,4 @@
-name: CI/CD using github actions
+name: CI/CD yarn classic
 
 on:
   push:
